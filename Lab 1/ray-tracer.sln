@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ray-tracer", "incomplete-ray-tracer\ray-tracer.csproj", "{35E6D7CC-B0A0-4673-ABE6-BC6A77EBE9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35E6D7CC-B0A0-4673-ABE6-BC6A77EBE9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E6D7CC-B0A0-4673-ABE6-BC6A77EBE9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E6D7CC-B0A0-4673-ABE6-BC6A77EBE9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E6D7CC-B0A0-4673-ABE6-BC6A77EBE9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726A42E3-0507-4C8B-BB98-A2E4487EC0C5}
+	EndGlobalSection
+EndGlobal

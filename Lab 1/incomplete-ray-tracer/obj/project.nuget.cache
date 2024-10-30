@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9DVS4nW/XyRg+wudFH0bvpiT7OgRgM1jDutxL6wsnLliffUa2ilDk0V7bwfrhgEIR8SdwbVGy9WC/q7/UH672g==",
+  "success": true,
+  "projectFilePath": "D:\\Facultate\\An 3\\1st sem\\classes\\Realitate virtuala\\Lab 1\\incomplete-ray-tracer\\ray-tracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carla\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.2.23479.6\\microsoft.win32.systemevents.8.0.0-rc.2.23479.6.nupkg.sha512",
+    "C:\\Users\\Carla\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Carla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Carla\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Carla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Carla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
